@@ -4,3 +4,5 @@ To run the experiments, use:
 ```bash
 python main.py --task $task
 ```
+
+Plotting and further analysis is done in `plotting.ipynb`.
